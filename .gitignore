@@ -10,3 +10,5 @@ docs/_static
 
 # SQLite
 *.sqlite3
+.idea
+*.egg-info
